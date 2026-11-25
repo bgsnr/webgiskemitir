@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-# env & secrets — VITE_* is public in the bundle, but never commit env files
+# Env & secrets — jangan pernah commit token/kredensial asli
 .env
 .env.*
 !.env.example

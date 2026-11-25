@@ -1,0 +1,49 @@
+{
+  "brand": {
+    "appName": "Kemitir Tangguh Bencana",
+    "primary": "#0B6E99",
+    "primaryDark": "#074C6B",
+    "primaryLight": "#E0F2FE",
+    "secondary": "#1E7A4C",
+    "secondaryLight": "#DCFCE7",
+    "surface": "#FFFFFF",
+    "background": "#F8FAFC",
+    "textPrimary": "#0F172A",
+    "textSecondary": "#475569",
+    "border": "#CBD5E1"
+  },
+  "droughtSeverity": {
+    "normal": "#16A34A",
+    "waspada": "#EAB308",
+    "siaga": "#F97316",
+    "awas": "#DC2626"
+  },
+  "hazardClass": {
+    "rendah": "#22C55E",
+    "sedang": "#FACC15",
+    "tinggi": "#EF4444",
+    "noData": "#94A3B8"
+  },
+  "priorityClass": {
+    "p1": "#B91C1C",
+    "p2": "#EA580C",
+    "p3": "#CA8A04",
+    "p4": "#15803D"
+  },
+  "validationStatus": {
+    "menunggu_validasi": "#64748B",
+    "valid": "#16A34A",
+    "perlu_revisi": "#D97706",
+    "ditolak": "#DC2626"
+  },
+  "waterCondition": {
+    "baik": "#0284C7",
+    "berkurang": "#EAB308",
+    "kering": "#EA580C",
+    "rusak": "#DC2626"
+  },
+  "typography": {
+    "fontFamily": "Plus Jakarta Sans, Inter, sans-serif",
+    "monoFontFamily": "JetBrains Mono, monospace"
+  }
+}
